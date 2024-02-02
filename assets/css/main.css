@@ -364,7 +364,7 @@ progress {
       width: 34px;
       height: 34px;
       content: '';
-      background: #5bd9a9;
+      background: red;
       -webkit-border-radius: 2px;
       -moz-border-radius: 2px;
       -ms-border-radius: 2px;
